@@ -1,0 +1,13 @@
+# Multi-Database Dummy Data Generator - Dependencies
+
+# MySQL support
+mysql-connector-python>=8.0.33
+
+# PostgreSQL support
+psycopg2-binary>=2.9.0
+
+# Oracle support
+cx_Oracle>=8.3.0
+
+# Data generation
+faker>=18.0.0
